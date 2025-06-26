@@ -33,7 +33,7 @@ This repository contains my solutions to the *LeetCode 75* curated list of essen
 
 ## 💻 Technologies Used
 
-- Programming Languages: *(Add the languages you used, e.g., Python, Java)*  
+- Programming Languages: JavaScript  
 - Tools: Git, GitHub  
 
 ## 🚀 How to Use This Repo
