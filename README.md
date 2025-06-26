@@ -1,6 +1,6 @@
 # LeetCode 75 - Coding Interview Problems
 
-**Author:** Southen16  
+**Author:** Southen Kumar
 **GitHub:** [github.com/Southen16/LeetCode-75](https://github.com/Southen16/LeetCode-75)
 
 ---
